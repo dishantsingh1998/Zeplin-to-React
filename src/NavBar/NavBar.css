@@ -1,0 +1,87 @@
+.Rectangl {
+  width: 1158px;
+  height: 70px;
+  position: absolute; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  display: flex;
+  margin: 0 0 40px 221px;
+  padding: 20px 25px 20px 114px;
+  box-shadow: 0 2px 11px 0 rgba(155, 188, 227, 0.29);
+  background-color: #4b535c;
+  object-fit: cover;
+}
+.View-Events {
+  width: 103px;
+  height: 23px;
+  margin: 4px 754px 3px 0;
+  display: inline-block;
+  font-family: Muli;
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ffffff;
+}
+.OF {
+  width: 15px;
+  height: 12px;
+  font-family: Ubuntu;
+  display: inline-block;
+  font-size: 10px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.14px;
+  color: #f5f6f9;
+}
+.Oval5 {
+  width: 25px;
+  height: 25px;
+  border-radius: 50px;
+  margin: 0 7px 0 0;
+  padding: 8px 6px 10px 9px;
+  background-color: #3a424a;
+}
+
+.Omar-Faizan {
+  width: 74px;
+  height: 15px;
+  margin: 8px 0 7px 7px;
+  font-family: Muli;
+  font-size: 12px;
+  font-weight: normal;
+  /* display: inline-block; */
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.17px;
+  color: #f5f6f9;
+}
+.body {
+  padding-top: 70px;
+}
+@media screen and (max-width: 600px) {
+  .Rectangl a:not(:first-child) {display: none;}
+  .Rectangl a.icon {
+    float: right;
+    display: block;
+  }
+}
+
+/* The "responsive" class is added to the topnav with JavaScript when the user clicks on the icon. This class makes the topnav look good on small screens (display the links vertically instead of horizontally) */
+@media screen and (max-width: 600px) {
+  .Rectangl.responsive {position: relative;}
+  .Rectangl.responsive a.icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .Rectangl.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+}

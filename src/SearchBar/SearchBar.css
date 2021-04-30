@@ -1,0 +1,47 @@
+.Rectangle-Copy-4 {
+    width: 825px;
+    height: 54px;
+    margin: 40px 73px 16px 24px;
+    position:relative;
+    top: 80px;
+    left: 280px;
+    display: flex;
+    padding: 11px 183px 7px 33px;
+    border-radius: 4px;
+    border: solid 1px #f6f6f6;
+    background-color: #ffffff;
+  }
+  .Rectan {
+    width: 832px;
+    display: flex;
+    height: 36px;
+    padding: 9px 16px;
+    border-radius: 18px;
+    border: solid 1px #f2effa;
+  }
+  .Search {
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  border: 3px solid green;
+  }
+  .Oval121 {
+    width: 15px;
+    height: 15px;
+    margin: 0 3px 3px 0;
+    border: solid 1.6px #dfdede;
+    border-radius: 50%;
+    position: relative;
+    left: -35px;
+    top: 15px;
+  }
+  
+  .smallOval{
+    width: 5px;
+  height: 5px;
+  margin: 13px 0 0 13px;
+  border: solid 1.6px #dfdede;
+  border-radius: 50%;
+
+  }

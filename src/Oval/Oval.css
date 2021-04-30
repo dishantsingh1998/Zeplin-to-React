@@ -1,0 +1,72 @@
+.Oval-Copy {
+    width: 24px;
+    height: 24px;
+    padding: 6px 5px 5px 4px;
+    border-radius: 50%;
+    background-color: rgba(251, 65, 107, 0.5);
+    position: absolute;
+    top: 130px;
+    left: 17px;
+
+  }
+  .MS {
+    width: 15px;
+    height: 13px;
+    font-family: Muli;
+    font-size: 10px;
+    text-align: center;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ffffff;
+    border-radius: 50%;
+  }
+  .Oval-Copy-2 {
+    width: 24px;
+    height: 24px;
+    margin: 0 1px 0 0;
+    padding: 6px 5px 5px 6px;
+    background-color: rgba(4, 155, 250, 0.5);
+    border-radius: 50%;
+    position: absolute;
+    left: 50px;
+    top: 130px;
+  }
+  .RJ {
+    width: 13px;
+    height: 13px;
+    font-family: Muli;
+    font-size: 10px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ffffff;
+  }
+  .Oval {
+    width: 24px;
+    height: 24px;
+    margin: 0 0 0 1px;
+    padding: 6px 4px 5px 5px;
+    background-color: rgba(255, 195, 0, 0.5);
+    border-radius: 50%;
+    position: absolute;
+    left: 83px;
+    top: 130px;
+
+  }
+  .PT {
+    width: 15px;
+    height: 13px;
+    font-family: Muli;
+    font-size: 10px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ffffff;
+  }
