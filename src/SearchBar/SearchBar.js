@@ -1,6 +1,6 @@
 import React from 'react'
 import './SearchBar.css'
-
+//Searchbar
 const SearchBar = () => {
     return (
         <div className ="Rectangle-Copy-4 ">
