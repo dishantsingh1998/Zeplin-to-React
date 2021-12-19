@@ -3,7 +3,7 @@ import group2 from "../img/group2.svg";
 import "./NavBar.css"
 import SideBar from "../SideBar/SideBar";
 
-
+//Navbar Code
 const NavBar = () => {
     return (
         <div>
